@@ -1,5 +1,5 @@
 # LU-tikzposter
-LaTeX Tikzposter Template for Lund University, Sweden.
+LaTeX Tikzposter Template for Lund University, Sweden. See [here](example.pdf) for example.
 This LaTeX template follows the [LU graphical manual](https://www.medarbetarwebben.lu.se/sites/medarbetarwebben.lu.se/files/grafiskmanual-2.0-2018.pdf).
 The fonts need to be downloaded separately due to licensing.
 
