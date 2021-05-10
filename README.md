@@ -15,3 +15,5 @@ Here you can change between the different LU-colors and layout styles from the T
 To use, download the LU specific fonts from https://lu-mediaportal.qbank.se
 and unzip to the directory named `fonts`.
 Then build `luposter.tex` using `xelatex` with your favourite environment.
+
+Note that you need to use the `posterfigure` and `postertable` environments for figures and tables.
